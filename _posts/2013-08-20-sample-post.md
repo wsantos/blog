@@ -31,7 +31,7 @@ iPhone try-hard jean shorts.
 
 Syntax highlighting with Solarized theme.
 
-{% highlight ruby %}
+{% highlight ruby linenos=table %}
 class User < ActiveRecord::Base
   attr_accessible :email, :name
 
